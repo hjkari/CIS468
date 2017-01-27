@@ -11,13 +11,10 @@ def isPrime(n):
 			else:
 				#twin = (n + 2) #prime plus 2 to get twin
 				print (n, "is prime.",) 
-				prime = True
-				n
+				#prime = True
 				for n in range (1 , n, -2): 
 					print (n)
 				print("Results: ", n) 
-				#count += 1 tried it with something else
-				
 				break
 
 		#return prime
@@ -29,4 +26,7 @@ isPrime(n)
 
 #if __name__ == '__main__':
 		#main()
-	
+
+#I held out asking for help thinking I'd have an ephiphany to no avail.
+#Clearly, I should have caved.
+
